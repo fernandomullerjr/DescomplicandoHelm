@@ -1,0 +1,3 @@
+Arquivo contendo texto de teste.
+Não é do repo do Linuxtips, é um particular.
+Ok.
